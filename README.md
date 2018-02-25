@@ -1,2 +1,7 @@
 # hello-world
-test create new repository
+
+Hi there!!
+
+Just want to say hello..
+
+Bye..
